@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caculator</string>
+    <string name="error_info">Error!</string>
+    <string name="about">about</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Version_Info">Version:%s\nDesigner:yuanxin</string>
+</resources>
